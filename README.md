@@ -1,2 +1,6 @@
 # thesis_code_public
 This repo contains all code written to re-produce the data cleaning, figures, and machine learning algorithms of my master thesis. The title of my work is: Using Machine Learning to predict ESG Controversy: A potential way to capture ESG-related risk?
+
+The data has been omitted, as it is not available to the genral public. Nevertheless, it can be retrieved with a valid acces key, via Refinitiv (https://www.refinitiv.com/en), Datastream, ThomsonONE, or EIKON. The methodology can be found under the following link: https://www.refinitiv.com/content/dam/marketing/en_us/documents/methodology/refinitiv-esg-scores-methodology.pdf. Note however, that Refinitiv has failed to update this document, hence, the description slightly differs from the data I ended up with. In detail, I have gathered all ESG-related and ESG controversy-related data Refinitiv had to offer, across the years 2013 to 2022 for over 10,000 publically traded companies. 
+
+As a recommendation, in case someone would want to do this research, as well, I would do the prediction with financial statement data. The information provided by Refinitiv is highly specific and thus, contains a substaintial number of missing observations.
